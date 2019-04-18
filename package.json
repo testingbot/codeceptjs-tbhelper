@@ -1,0 +1,35 @@
+{
+  "name": "codeceptjs-tbhelper",
+  "version": "1.0.0",
+  "description": "TestingBot Helper for Codecept JS tests",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/testingbot/codeceptjs-tbhelper.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "codeceptJS",
+    "codeceptjs",
+    "testingbot",
+    "codeceptjs-testingbot",
+    "codeceptjs-tb"
+  ],
+  "author": "TestingBot <info@testingbot.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/testingbot/testingbot/issues"
+  },
+  "homepage": "https://github.com/testingbot/codeceptjs-tbhelper#readme",
+  "main": "index.js",
+  "devDependencies": {},
+  "files": [
+    "index.js",
+    "readme.md",
+    "LICENSE"
+  ],
+  "dependencies": {
+    "testingbot-api": "^1.0.7"
+  }
+}
